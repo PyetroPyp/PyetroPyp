@@ -53,7 +53,7 @@
 <!--tech stack icons-->
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=css,javascript,html,discord,github,linux,windows,vscode,instragram&perline=14" />
+    <img src="https://skillicons.dev/icons?i=css,javascript,html,python,discord,github,linux,windows,vscode,instragram&perline=14" />
   </a>
 </p>
 
@@ -68,8 +68,8 @@
 
 <!--icons and links-->
 <p align="center">
-<a href="https://www.instagram.com/pyetro33_/" target="blank"><img align="center" src="https://user-images.githubusercontent.com/88904952/234981169-2dd1e58f-4b7e-468c-8213-034ba62156c3.png" alt="instagram" height="50" width="50" /></a>
-<a href="https://discordapp.com/users/1267602163157434428" target="blank"><img align="center" src="https://user-images.githubusercontent.com/88904952/234982627-019fd336-6248-453c-9b05-97c13fd1d207.png" alt="discord" height="50" width="50" /></a>
+<a href="https://www.instagram.com/pyetrokkjk/" target="blank"><img align="center" src="https://user-images.githubusercontent.com/88904952/234981169-2dd1e58f-4b7e-468c-8213-034ba62156c3.png" alt="instagram" height="50" width="50" /></a>
+<a href="https://discordapp.com/users/1311119629602525184" target="blank"><img align="center" src="https://user-images.githubusercontent.com/88904952/234982627-019fd336-6248-453c-9b05-97c13fd1d207.png" alt="discord" height="50" width="50" /></a>
   
 </p>
 
